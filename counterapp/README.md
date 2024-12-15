@@ -1,16 +1,14 @@
 # counterapp
 
-A new Flutter project.
+A Flutter project for Simple and scalable state management.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is to manage state of counter app.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started in state-management Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Lab: state management in Flutter app](https://docs.flutter.dev/data-and-backend/state-mgmt/intro)
+- [State management solution with ValueNotifier and InheritedNotifier ](https://www.hungrimind.com/articles/flutter-state-management)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
